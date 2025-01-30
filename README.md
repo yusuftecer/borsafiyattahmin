@@ -1,6 +1,6 @@
 # borsafiyattahmin 
  
-
+Data link: https://drive.google.com/drive/folders/11CAe3Baw8eW-v3PPDurQSWJy_o_GE5OW?usp=sharing
 Bu proje, **Borsa İstanbul (BIST)** verileri kullanılarak hisse senedi fiyatlarını tahmin etmek için **XGBoost regresyon modeli** ile geliştirilmiştir. Model, **8 yıllık borsa işlem verisi** ile eğitilmiş olup, teknik indikatörler yerine doğrudan **ham piyasa verilerini** kullanmaktadır.  
 
 
